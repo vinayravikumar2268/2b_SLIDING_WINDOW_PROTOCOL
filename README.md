@@ -41,6 +41,7 @@ while True:
 ## OUPUT
 server.py
 <img width="1116" height="773" alt="image" src="https://github.com/user-attachments/assets/c14a9d2d-7be7-49ad-9b22-e6809fd2ef53" />
+
 client.py
 <img width="1106" height="828" alt="image" src="https://github.com/user-attachments/assets/b6ea4b9c-fc1d-421b-adfc-ad349f9e9089" />
 
