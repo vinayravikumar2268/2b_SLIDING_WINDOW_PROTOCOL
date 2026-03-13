@@ -9,7 +9,6 @@
 6. Stop the Program
 ## PROGRAM
 ~~~
-
 Server.py
 import socket
 s = socket.socket()
